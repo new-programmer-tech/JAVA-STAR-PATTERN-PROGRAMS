@@ -1,3 +1,13 @@
+// Pattern programs in java : Pattern 4
+
+// 7 6 5 4 3 2 1
+// 7 6 5 4 3 2 
+// 7 6 5 4 3 
+// 7 6 5 4
+// 7 6 5
+// 7 6
+// 7
+
 public class NumberPattern_4 
 {
     public static void main(String[] args) {
