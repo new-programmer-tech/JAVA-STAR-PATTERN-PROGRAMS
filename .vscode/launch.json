@@ -1,0 +1,98 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch StarPyramid",
+      "request": "launch",
+      "mainClass": "StarPyramid",
+      "projectName": "STAR_PATTREN_22274f2a"
+    },
+    {
+      "type": "java",
+      "name": "Launch Number8Patter",
+      "request": "launch",
+      "mainClass": "Number8Patter",
+      "projectName": "STAR_PATTREN_22274f2a"
+    },
+    {
+      "name": "Java",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"]
+    },
+    {
+      "name": "Java Console App",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"],
+      "externalConsole": true
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberPatter_7",
+      "request": "launch",
+      "mainClass": "NumberPatter_7",
+      "projectName": "STAR_PATTREN_22274f2a"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberPattern",
+      "request": "launch",
+      "mainClass": "NumberPattern",
+      "projectName": "STAR_PATTREN_22274f2a"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberPattern_1",
+      "request": "launch",
+      "mainClass": "NumberPattern_1",
+      "projectName": "STAR_PATTREN_22274f2a"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberPattern_4",
+      "request": "launch",
+      "mainClass": "NumberPattern_4",
+      "projectName": "STAR_PATTREN_22274f2a"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberPattern_6",
+      "request": "launch",
+      "mainClass": "NumberPattern_6",
+      "projectName": "STAR_PATTREN_22274f2a"
+    },
+    {
+      "type": "java",
+      "name": "Launch SpacePatter",
+      "request": "launch",
+      "mainClass": "SpacePatter",
+      "projectName": "STAR_PATTREN_22274f2a"
+    },
+    {
+      "type": "java",
+      "name": "Launch pattern",
+      "request": "launch",
+      "mainClass": "pattern",
+      "projectName": "STAR_PATTREN_22274f2a"
+    }
+  ]
+}
